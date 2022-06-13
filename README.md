@@ -8,6 +8,8 @@
 
 여행코스를 공유하는 플랫폼을 제공해서 고객들이 여행코스를 정하는 부분에 있어 편리함을 주는 가치를 제공하고자 한다.
 
+[소개영상(Youtube Link)](https://youtu.be/wH7AhaALoAQ)
+
 ### 사용 기술
 `Java`, `Spring Boot`, `Spring Data JPA`, `Docker-compose`, `MariaDB`, `React`
 
@@ -19,6 +21,4 @@ Docker-Compose를 이용하여 MariaDB 개발 환경을 구축하였다.
 
 ---
 
-### 서비스 시연영상  
-#### Gogo플랫폼 시연영상(Youtube 링크 연결)  
-[![GOGO 플랫폼 시연 영상](https://user-images.githubusercontent.com/56144682/173310448-a9b1d347-c3ec-426a-a6f0-dcb4b6212494.png)](https://youtu.be/Pyjd2qTV-BY)
+![GOGO 플랫폼 시연 영상](https://user-images.githubusercontent.com/56144682/173310448-a9b1d347-c3ec-426a-a6f0-dcb4b6212494.png)
